@@ -1,0 +1,4 @@
+dm-sonnet==1.14
+numpy==1.13.3
+Pillow==4.3.0
+tensorflow-gpu==1.4.0
